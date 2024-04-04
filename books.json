@@ -1,0 +1,254 @@
+{
+  "bookCollection": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publicationYear": 1925,
+      "genre": "Fiction",
+      "details": {
+        "rating": 4.5,
+        "reviews": 120
+      }
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publicationYear": 1960,
+      "genre": "Classics",
+      "details": {
+        "rating": 4.8,
+        "reviews": 150
+      }
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publicationYear": 1937,
+      "genre": "Fantasy",
+      "details": {
+        "rating": 4.7,
+        "reviews": 200
+      }
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publicationYear": 1949,
+      "genre": "Dystopian",
+      "details": {
+        "rating": 4.6,
+        "reviews": 180
+      }
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publicationYear": 1813,
+      "genre": "Romance",
+      "details": {
+        "rating": 4.9,
+        "reviews": 220
+      }
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publicationYear": 1951,
+      "genre": "Coming of Age",
+      "details": {
+        "rating": 4.4,
+        "reviews": 130
+      }
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publicationYear": 1954,
+      "genre": "Fantasy",
+      "details": {
+        "rating": 4.9,
+        "reviews": 250
+      }
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publicationYear": 1932,
+      "genre": "Dystopian",
+      "details": {
+        "rating": 4.5,
+        "reviews": 160
+      }
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publicationYear": 1851,
+      "genre": "Adventure",
+      "details": {
+        "rating": 4.3,
+        "reviews": 110
+      }
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "publicationYear": -800,
+      "genre": "Epic",
+      "details": {
+        "rating": 4.7,
+        "reviews": 190
+      }
+    },
+	{
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publicationYear": 1866,
+      "genre": "Classics",
+      "details": {
+        "rating": 4.6,
+        "reviews": 210
+      }
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "publicationYear": 1890,
+      "genre": "Fiction",
+      "details": {
+        "rating": 4.4,
+        "reviews": 180
+      }
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publicationYear": 1818,
+      "genre": "Horror",
+      "details": {
+        "rating": 4.2,
+        "reviews": 150
+      }
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "publicationYear": 1880,
+      "genre": "Classics",
+      "details": {
+        "rating": 4.7,
+        "reviews": 230
+      }
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "publicationYear": 1877,
+      "genre": "Classics",
+      "details": {
+        "rating": 4.8,
+        "reviews": 260
+      }
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "publicationYear": 1967,
+      "genre": "Magical Realism",
+      "details": {
+        "rating": 4.5,
+        "reviews": 220
+      }
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publicationYear": 1869,
+      "genre": "Classics",
+      "details": {
+        "rating": 4.9,
+        "reviews": 290
+      }
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "publicationYear": 1844,
+      "genre": "Adventure",
+      "details": {
+        "rating": 4.7,
+        "reviews": 240
+      }
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "publicationYear": 1847,
+      "genre": "Gothic Fiction",
+      "details": {
+        "rating": 4.4,
+        "reviews": 200
+      }
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "publicationYear": 1847,
+      "genre": "Gothic Fiction",
+      "details": {
+        "rating": 4.6,
+        "reviews": 210
+      }
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "publicationYear": 1605,
+      "genre": "Satire",
+      "details": {
+        "rating": 4.8,
+        "reviews": 270
+      }
+    },
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "publicationYear": 1862,
+      "genre": "Historical Fiction",
+      "details": {
+        "rating": 4.9,
+        "reviews": 300
+      }
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "publicationYear": 1936,
+      "genre": "Historical Fiction",
+      "details": {
+        "rating": 4.7,
+        "reviews": 250
+      }
+    },
+    {
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "publicationYear": 1911,
+      "genre": "Children's Literature",
+      "details": {
+        "rating": 4.5,
+        "reviews": 220
+      }
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "publicationYear": 1897,
+      "genre": "Horror",
+      "details": {
+        "rating": 4.3,
+        "reviews": 190
+      }
+    }
+  ]
+}
